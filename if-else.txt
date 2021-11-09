@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void main()
+{
+    float a=12.25,b=13.65;
+    if(a=  b)
+    printf("a and b both are equal");
+    else
+    printf("a and b both are not equal")
+    return 0;
+}
+
